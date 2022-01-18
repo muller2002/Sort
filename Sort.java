@@ -30,7 +30,7 @@ public class Sort {
 		}
 		tree(randNums);
 		bubble(randNums);
-		quick(randNums); //Test 2
+		quick(randNums); //Test 3
 		merge(randNums);
 	}
 	public Sort() {
